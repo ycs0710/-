@@ -17,11 +17,5 @@
 
 ## 설치 및 사용 방법
 
-이 프로젝트를 사용하기 위해서는 Matplotlib 라이브러리의 설치가 필요합니다. 아래의 절차대로 진행해주세요.
+이 프로젝트를 사용하기 위해서는 Matplotlib 라이브러리의 설치가 필요합니다. 
 
-### 2. Matplotlib 설치
-
-터미널 또는 커맨드 프롬프트에서 아래의 명령어로 Matplotlib를 설치합니다.
-
-```bash
-pip install matplotlib
